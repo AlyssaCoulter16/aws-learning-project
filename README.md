@@ -49,7 +49,7 @@ db.php – Database connection
 Testing
 Browser Test
 
-http://34.228.162.237/login.php
+http://44.195.237.167/login.php
 
 Postman Test
 
